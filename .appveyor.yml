@@ -65,4 +65,4 @@ build_script:
   - cmake --build . --target vncclient --config Release
 
 artifacts:
-- path: build\Debug\vncclient.dll
+- path: build\Release\vncclient.dll
